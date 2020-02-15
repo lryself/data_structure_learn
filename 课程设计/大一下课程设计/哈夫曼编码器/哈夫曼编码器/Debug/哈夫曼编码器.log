@@ -1,0 +1,8 @@
+﻿D:\编程应用\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(哈夫曼编码器.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  哈夫曼编码译码器.c
+f:\编程\c语言\课程设计\哈夫曼编码器\哈夫曼编码器\哈夫曼编码译码器.c(34): warning C4101: “ch”: 未引用的局部变量
+f:\编程\c语言\课程设计\哈夫曼编码器\哈夫曼编码器\哈夫曼编码译码器.c(118): warning C4101: “j”: 未引用的局部变量
+f:\编程\c语言\课程设计\哈夫曼编码器\哈夫曼编码器\哈夫曼编码译码器.c(149): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\编程\c语言\课程设计\哈夫曼编码器\哈夫曼编码器\哈夫曼编码译码器.c(157): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\编程\c语言\课程设计\哈夫曼编码器\哈夫曼编码器\哈夫曼编码译码器.c(147): warning C4101: “j”: 未引用的局部变量
+  哈夫曼编码器.vcxproj -> F:\编程\C语言\课程设计\哈夫曼编码器\Debug\哈夫曼编码译码器.exe

@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 源程序 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\lenovo\AppData\Local\Temp\RSP2AA7.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/源程序.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"F:\课程设计\源程序\矩阵运算软件.cpp"
+]
+Creating command line "cl.exe @C:\Users\lenovo\AppData\Local\Temp\RSP2AA7.tmp" 
+Creating temporary file "C:\Users\lenovo\AppData\Local\Temp\RSP2AB7.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/源程序.pdb" /debug /machine:I386 /out:"Debug/源程序.exe" /pdbtype:sept 
+".\Debug\矩阵运算软件.obj"
+]
+Creating command line "link.exe @C:\Users\lenovo\AppData\Local\Temp\RSP2AB7.tmp"
+<h3>Output Window</h3>
+Compiling...
+矩阵运算软件.cpp
+F:\课程设计\源程序\矩阵运算软件.cpp(56) : error C2664: 'jiafa' : cannot convert parameter 1 from 'int' to 'int [][100]'
+        Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+F:\课程设计\源程序\矩阵运算软件.cpp(56) : error C2043: illegal break
+F:\课程设计\源程序\矩阵运算软件.cpp(57) : error C2046: illegal case
+F:\课程设计\源程序\矩阵运算软件.cpp(57) : error C2664: 'jianfa' : cannot convert parameter 1 from 'int' to 'int [][100]'
+        Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+F:\课程设计\源程序\矩阵运算软件.cpp(57) : error C2043: illegal break
+F:\课程设计\源程序\矩阵运算软件.cpp(58) : error C2046: illegal case
+F:\课程设计\源程序\矩阵运算软件.cpp(58) : error C2664: 'chengfa' : cannot convert parameter 1 from 'int' to 'int [][100]'
+        Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+F:\课程设计\源程序\矩阵运算软件.cpp(58) : error C2043: illegal break
+F:\课程设计\源程序\矩阵运算软件.cpp(59) : error C2046: illegal case
+F:\课程设计\源程序\矩阵运算软件.cpp(59) : error C2664: 'zhuanzhi' : cannot convert parameter 1 from 'int' to 'int [][100]'
+        Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+F:\课程设计\源程序\矩阵运算软件.cpp(59) : error C2043: illegal break
+F:\课程设计\源程序\矩阵运算软件.cpp(107) : warning C4552: '<' : operator has no effect; expected operator with side-effect
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+源程序.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

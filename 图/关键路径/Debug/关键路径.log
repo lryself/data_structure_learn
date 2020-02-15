@@ -1,0 +1,6 @@
+﻿  关键路径.cpp
+f:\编程\c语言\图\图\关键路径.cpp(73): warning C4101: “j”: 未引用的局部变量
+f:\编程\c语言\图\图\关键路径.cpp(83): warning C4101: “j”: 未引用的局部变量
+f:\编程\c语言\图\图\关键路径.cpp(138): warning C4101: “flag”: 未引用的局部变量
+f:\编程\c语言\图\图\关键路径.cpp(209): warning C4326: “main”的返回类型应为“int”而非“void”
+  关键路径.vcxproj -> F:\编程\C语言\图\Debug\关键路径.exe
